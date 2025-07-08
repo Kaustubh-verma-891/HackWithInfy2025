@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreedyApproach/GreedyApproach.iml" filepath="$PROJECT_DIR$/GreedyApproach/GreedyApproach.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackWithInfy2025.iml" filepath="$PROJECT_DIR$/HackWithInfy2025.iml" />
     </modules>
